@@ -1,0 +1,14 @@
+Requirements:
+
+python >= 3.5
+matplotlib >= 2.2.2
+geopandas >= 0.4.0
+pyproj >= 1.9.5.1
+rtree >= 0.8.3
+shapely >= 1.6.4
+fiona >= 1.7.12
+GDAL >= 2.2.4
+descartes >= 1.1.0
+click >= 6.7
+pip >= 10.0.1
+
